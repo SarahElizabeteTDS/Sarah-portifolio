@@ -1,1 +1,41 @@
 
+body
+{
+    color: white;
+    background: #2727;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    font-size: 55px;
+    line-height: 45px;
+}
+
+h1 strong
+{
+    color: rgb(52, 100, 88);
+}
+
+header ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+header ul
+{
+    list-style: none;
+}
+
+header ul li 
+{
+    display: inline;
+}
+
+header, main, footer
+{
+    border: dotted yellow;
+    margin: 0 80px 0 80px;
+}
+
