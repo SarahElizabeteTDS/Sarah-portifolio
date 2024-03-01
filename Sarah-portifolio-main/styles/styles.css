@@ -1,0 +1,67 @@
+
+body
+{
+    color: white;
+    background: #2727;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    font-size: 55px;
+    line-height: 45px;
+}
+
+h1 strong
+{
+    color: rgb(52, 100, 88);
+}
+
+header ul li a
+{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+header ul
+{
+    list-style: none;
+    padding: 0;
+}
+
+header ul li 
+{
+    display: inline;
+}
+
+header, main, footer
+{
+    /*border: dotted yellow;*/
+    margin: 0 80px 0 80px;
+    width: 1210px;
+}
+
+/*style layout*/
+
+section
+{
+    float: left;
+    box-sizing: border-box;
+}
+
+.secao-conteudo
+{
+    width: 80%;
+}
+
+.secao-imagem
+{
+    width: 15%;
+}
+
+.footer
+{
+    float: left;
+    height: 50px;
+}
