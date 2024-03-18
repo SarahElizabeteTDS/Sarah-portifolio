@@ -23,6 +23,12 @@ header ul li a
     text-decoration: none;
     margin-right: 15px;
 }
+header ul li a:hover
+{
+    color: rgb(52, 100, 88);
+    text-decoration: none;
+    margin-right: 15px;
+}
 
 header ul
 {
